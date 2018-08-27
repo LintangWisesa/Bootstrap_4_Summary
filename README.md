@@ -1,7 +1,7 @@
 
 ![Lintang_Purwadhika](https://applabx.com/wp-content/uploads/2017/06/bootstrap-logo.png)
 
-### Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+### Bootstrap ([http://getbootstrap.com](http://getbootstrap.com/)) is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 
 # Summary of Bootstrap 4 Components
 
